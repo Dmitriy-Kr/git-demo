@@ -13,3 +13,4 @@ new feature line
 next reature line
 ---------------------------------
 again new feature line
+new line for conflict
