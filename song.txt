@@ -8,3 +8,5 @@ sixth line
 ----------------------------------
 seventh line
 eighth line
+---------------------------------
+new feature line
